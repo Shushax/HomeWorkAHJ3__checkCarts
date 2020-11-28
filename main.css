@@ -1,0 +1,12 @@
+.carts {
+    display: flex;
+}
+
+.cart {
+    width: 50px;
+    height: 40px;
+    padding: 15px;
+    opacity: 30%;
+}
+
+/*# sourceMappingURL=main.css.map*/

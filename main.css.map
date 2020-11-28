@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/css/style.css"],"names":[],"mappings":"AAAA;IACI,aAAa;AACjB;;AAEA;IACI,WAAW;IACX,YAAY;IACZ,aAAa;IACb,YAAY;AAChB,C","file":"main.css","sourcesContent":[".carts {\n    display: flex;\n}\n\n.cart {\n    width: 50px;\n    height: 40px;\n    padding: 15px;\n    opacity: 30%;\n}"],"sourceRoot":""}
